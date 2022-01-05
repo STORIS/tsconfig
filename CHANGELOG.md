@@ -6,5 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.1] - 2022-01-05
+### Added
+- Initial release
+
 [Unreleased]: https://github.com/storis/tsconfig/compare/0.0.1...HEAD
 [0.0.1]: https://github.com/storis/eslint-config/releases/tag/0.0.1

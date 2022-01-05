@@ -2,7 +2,7 @@
   "extends": "../base/tsconfig.json",
   "compilerOptions": {
     /* Language and Environment */
-    "target": "es5",                                     /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
+    "target": "es2021",                                  /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
     "lib": ["dom", "dom.iterable", "esnext"],            /* Specify a set of bundled library declaration files that describe the target runtime environment. */
     "jsx": "react-jsx",                                  /* Specify what JSX code is generated. */
 

@@ -1,0 +1,11 @@
+*
+
+!/base/**/*
+!/node16/**/*
+!/react/**/*
+
+!/package.json
+
+!/CHANGELOG.md
+!/LICENSE
+!/README.md

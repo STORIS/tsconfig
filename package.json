@@ -1,0 +1,29 @@
+{
+  "name": "@storis/tsconfig",
+  "version": "0.0.1",
+  "description": "STORIS TypeScript Configurations",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/STORIS/tsconfig.git"
+  },
+  "keywords": [
+    "typescript",
+    "tsconfig"
+  ],
+  "author": "STORIS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/STORIS/tsconfig/issues"
+  },
+  "homepage": "https://github.com/STORIS/tsconfig#readme",
+  "engines": {
+    "node": "^16.0.0",
+    "typescript": "^4.5.0"
+  },
+  "devDependencies": {
+    "typescript": "4.5.4"
+  },
+  "peerDependencies": {
+    "typescript": "^4.5.0"
+  }
+}

@@ -4,6 +4,7 @@
     ":onlyNpm",
     ":automergeTypes",
     ":automergeMinor",
+    ":skipStatusChecks",
     ":rebaseStalePrs",
     ":prHourlyLimit4",
     ":label(dependencies)"

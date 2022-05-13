@@ -27,6 +27,14 @@ Add the following to your typescript configuration file (e.g. `tsconfig.json`):
 }
 ```
 
+#### Node 18
+Add the following to your typescript configuration file (e.g. `tsconfig.json`):
+```
+{
+  "extends": "@storis/tsconfig/node18/tsconfig.json",
+}
+```
+
 #### React
 Add the following to your typescript configuration file (e.g. `tsconfig.json`):
 ```
